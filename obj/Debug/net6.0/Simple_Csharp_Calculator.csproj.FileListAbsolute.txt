@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\bin\Debug\net6.0\Simple_Csharp_Calculator.exe
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\bin\Debug\net6.0\Simple_Csharp_Calculator.deps.json
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\bin\Debug\net6.0\Simple_Csharp_Calculator.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\bin\Debug\net6.0\Simple_Csharp_Calculator.dll
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\bin\Debug\net6.0\Simple_Csharp_Calculator.pdb
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.dll
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\refint\Simple_Csharp_Calculator.dll
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.pdb
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\Simple_Csharp_Calculator.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Simple_Csharp_Calculator\obj\Debug\net6.0\ref\Simple_Csharp_Calculator.dll
